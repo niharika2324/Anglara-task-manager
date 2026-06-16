@@ -85,10 +85,10 @@ Backend: Render
 ![Home](./screenshots/home.png)
 
 ### Add Task
-![Add Task](./screenshots/add-task.png)
+![Add Task](./screenshots/home-tasks.png)
 
 ### Edit Task
-![Edit Task](./screenshots/edit-task.png)
+![Edit Task](./screenshots/edit.png)
 
 ### Filter Tasks
 ![Filter](./screenshots/filter.png)

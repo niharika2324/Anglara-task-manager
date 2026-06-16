@@ -78,3 +78,17 @@ MongoDB Atlas
 Frontend: Vercel
 
 Backend: Render
+
+## Screenshots
+
+### Home Page
+![Home](./screenshots/home.png)
+
+### Add Task
+![Add Task](./screenshots/add-task.png)
+
+### Edit Task
+![Edit Task](./screenshots/edit-task.png)
+
+### Filter Tasks
+![Filter](./screenshots/filter.png)
